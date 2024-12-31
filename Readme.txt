@@ -1,5 +1,10 @@
-place all the files in one folder
+Contributors
 
-run this in terminal: 'pip install -r requirments.txt'
+We are a team of four who collaborated on this project:
 
-now run the code with .py extention
+1)Bhavya Chennu - [GitHub Profile](https://github.com/bhavyachennu)
+2)Pujitha Sirigina- [GitHub Profile](https://github.com/pujithasirigina)
+3)Monisha Pallela - [GitHub Profile](https://github.com/monishapallela)
+4)Vishnu Vardhan Gande - [GitHub Profile](https://github.com/vishnuvardhangande)
+
+Thank you for your interest in our project!
